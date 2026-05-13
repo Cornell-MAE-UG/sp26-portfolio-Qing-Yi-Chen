@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Qing Yi Chen - Portfolio
 permalink: /projects/
 ---
 
