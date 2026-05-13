@@ -1,7 +1,7 @@
 ---
 layout: project
 title: MAE 3780 Robot Project
-description: MAE 3780: Mechatronics Autonomous Cube-Collecting Competitive Robot Final Project
+description: MAE 3780 - Mechatronics Autonomous Cube-Collecting Competitive Robot Final Project
 technologies: [Arduino, C++, Circuits, Autodesk Fusion 360, 3D-Printing, Rendering]
 image: /assets/images/robot.jpg
 ---
