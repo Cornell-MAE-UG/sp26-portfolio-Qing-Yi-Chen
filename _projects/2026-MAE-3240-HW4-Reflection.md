@@ -3,7 +3,7 @@ layout: project
 title: MAE 3240 HW4 Reflection for HW5 Q3
 description: MAE 3240 - Heat Transfer HW4 reflection done for HW5, Question 3
 technologies: [Heat Transfer, Fins, Thermal Resistance]
-image: /assets/images/hw3-q1.jpg
+image: /assets/images/hw4-q1.jpg
 ---
 
 
